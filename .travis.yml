@@ -5,4 +5,4 @@ rvm:
 
 cache: bundler
 
-script: 'rspec'
+script: 'bundle exec rspec spec'
