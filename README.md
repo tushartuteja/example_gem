@@ -1,4 +1,7 @@
+[![Build Status](https://travis-ci.org/ajn123/example_gem.svg?branch=master)](https://travis-ci.org/ajn123/example_gem)
+
 # FirstGem
+
 
 TODO: Write a gem description
 
