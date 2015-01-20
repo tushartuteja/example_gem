@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/ajn123/example_gem.svg?branch=master)](https://travis-ci.org/ajn123/example_gem)
+[![Coverage Status](https://coveralls.io/repos/ajn123/example_gem/badge.svg?branch=master)](https://coveralls.io/r/ajn123/example_gem?branch=master)
 
 # FirstGem
 
