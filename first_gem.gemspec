@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = FirstGem::VERSION
   spec.authors       = ["AJ Gucci"]
   spec.email         = ["ajn123@vt.edu"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{first Gem}
+  spec.description   = %q{this gives you the power of a number}
   spec.homepage      = ""
   spec.license       = "MIT"
 
